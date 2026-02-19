@@ -1,0 +1,12 @@
+transformers
+torch
+pandas
+numpy
+scikit-learn
+datasets
+rapidfuzz
+fastapi
+uvicorn
+python-multipart
+beautifulsoup4
+tqdm
