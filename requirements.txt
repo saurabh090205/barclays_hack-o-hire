@@ -1,0 +1,13 @@
+# AI Voice Deepfake Detection Engine - Requirements
+
+# Core dependencies
+torch>=1.9.0
+numpy>=1.21.0
+librosa>=0.9.0
+soundfile>=0.11.0
+
+# Web UI
+streamlit>=1.10.0
+
+# Optional (for training)
+scikit-learn>=0.24.0
